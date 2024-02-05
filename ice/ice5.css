@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+main{
+    background-color: grey;
+}
+header{
+    display: grid;
+    justify-content: center;
+}
+
+.heroimg{
+    width: 1200px;
+}
+.roundedimage{
+    border-radius: 50%;
+}
+.bob{
+    border-radius: 50%;
+}
