@@ -1,5 +1,8 @@
 body{
     margin: 0;
+    padding: 0;
+    font-size: 0;
+    background-color: grey;
 }
 
 main{
@@ -11,10 +14,14 @@ header{
 }
 
 .heroimg{
-    width: 1200px;
+    width: 100%;
 }
 .roundedimage{
     border-radius: 50%;
+    width: 200px;
+    border: 1vw solid #444;
+    margin-left: 180px;
+    margin-top: 5%;
 }
 .bob{
     border-radius: 50%;
