@@ -147,7 +147,7 @@ main section img {
     grid-template-columns: repeat(10, 1fr);
 }
 
-.card_img, .mountains {
+.card-img, .mountains {
     width: 100%;
 }
 
