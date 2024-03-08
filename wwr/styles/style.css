@@ -101,6 +101,10 @@ nav a:hover {
     width: 100%;
 }
 
+#hero-img2 {
+    width: 100%;
+}
+
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
     color: white;
@@ -136,6 +140,25 @@ nav a:hover {
 
 main section {
     text-align: center;
+}
+
+.river-title {
+    text-align: center;
+}
+
+.salmon {
+    text-align: center;
+    padding: 15px;
+}
+
+.desolation {
+    text-align: center;
+    padding: 15px;
+}
+
+.canyon {
+    text-align: center;
+    padding: 15px;
 }
 
 main section img {
